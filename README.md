@@ -20,7 +20,7 @@ no html.
 
   > Realizar jogada (A4 - A6)
   >
-  > Pode escrever um comentário legal, tipo, depois desse lance, você não
+  > Pode escrever um comentário lshoegal, tipo, depois desse lance, você não
   > tem mais como pra você Luiz
 
 - Não esqueça de remover a pedra do seu adversário quando você a
@@ -28,6 +28,8 @@ pegar no jogo.
 
 - Avise seu amigo sobre o desafio e passe o link do repositorio
 para ele.
+
+![preview](shot.png)
 
 ;-) --> Bom jogo.
 ========
