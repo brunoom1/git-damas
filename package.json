@@ -1,0 +1,25 @@
+{
+  "name": "gitdama",
+  "version": "1.0.0",
+  "description": "Jogo de damas usando o git. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoom1/git-damas.git"
+  },
+  "keywords": [
+    "GIT",
+    "git",
+    "games",
+    "damas"
+  ],
+  "author": "Gabriel Mendonça",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoom1/git-damas/issues"
+  },
+  "homepage": "https://github.com/brunoom1/git-damas#readme"
+}
